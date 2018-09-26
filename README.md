@@ -1,2 +1,2 @@
-# ef-code-first
-This repository contains the code-first approach source that accompanies the blog post on Code Maze
+# .NET Core Web API with EF Core Code-First approach
+## https://code-maze.com/net-core-web-api-ef-core-code-first
